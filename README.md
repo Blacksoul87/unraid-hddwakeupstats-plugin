@@ -25,7 +25,7 @@ The plugin provides a native, responsive dashboard widget designed specifically 
 ### Installation
 You can install the plugin via the Unraid command line. Paste the following command into the Unraid terminal:
 ```bash
-plugin install https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/hddwakeupstats.plg
+plugin install https://raw.githubusercontent.com/Blacksoul87/unraid-hddwakeupstats-plugin/main/hddwakeupstats.plg
 ```
 *(Note: Replace the URL above with the actual raw URL of the `.plg` file once uploaded to GitHub).*
 
@@ -62,7 +62,7 @@ Das Plugin bietet eine native, responsive Dashboard-Kachel, die speziell für Un
 ### Installation
 Du kannst das Plugin bequem über die Unraid-Kommandozeile installieren. Kopiere den folgenden Befehl in das Unraid-Terminal:
 ```bash
-plugin install https://raw.githubusercontent.com/DEIN_BENUTZERNAME/DEIN_REPO/main/hddwakeupstats.plg
+plugin install https://raw.githubusercontent.com/Blacksoul87/unraid-hddwakeupstats-plugin/main/hddwakeupstats.plg
 ```
 *(Hinweis: Ersetze die obige URL durch die tatsächliche Raw-URL der `.plg`-Datei, sobald das Projekt auf GitHub hochgeladen wurde).*
 
